@@ -8,8 +8,8 @@ header {
 	background-image: url("images_smash-3.jpg");
 }
 
-header.h2 {
-	font-size: 25;
+h2 {
+	font-size: 75;
 }
 
 body {
@@ -33,10 +33,11 @@ body {
 
 footer {
 	text-align: center;
-	padding: 3px;
+	padding: px;
 	background-color: rgb(10, 8, 156);
 	color: white;
   }
+
   
   img {
 	display: block;
@@ -45,15 +46,20 @@ footer {
   }
   
   p {
+	  
 	  text-align: center;
 	  font-size: 25px;
 	  background-color: lightgrey;
-	  width: 300px;
-	  border: 15px solid rgb(2, 78, 2);
-	  padding: 100px;
-	  margin: 20px;
-	  left: 50%;
+	  width: 500px;
+	  border: 20px solid rgb(2, 78, 2);
+	
+	  padding-top: 50px;
+	  padding-right: 50px;
+	  padding-bottom: 50px;
+	  padding-left: 50px;
 	  
+	  
+	  margin: 35px 500px 155px 625px;
 	  
   }
 
